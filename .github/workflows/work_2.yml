@@ -1,0 +1,8 @@
+name: Work 2
+on: [push]
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+          - name: Print Smth
+            run: echo "Hello World"
