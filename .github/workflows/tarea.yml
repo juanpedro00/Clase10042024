@@ -7,5 +7,9 @@ jobs:
     build:
         runs-on: ubuntu-latest
         steps:
-          - name: Print Smth
-            run: echo "Impresion 1" | echo "Impresion 2" | echo "Impresion 1"
+          - name: Print 1
+            run: echo "Impresion 1" 
+          - name: Print 2
+            run: echo "Impresion 2" 
+          - name: Print 3
+            run: echo "Impresion 3"
