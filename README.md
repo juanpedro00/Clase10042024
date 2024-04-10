@@ -1,1 +1,3 @@
-# Clase10042024
+# Ejercicio clase
+
+## Sólo necesitarás el server.js de este repositorio. Cópialo
