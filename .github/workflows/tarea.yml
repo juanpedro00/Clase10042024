@@ -1,0 +1,11 @@
+name: Tarea
+on: 
+  push:
+    branches:
+        test_1
+jobs:
+    build:
+        runs-on: ubuntu-latest
+        steps:
+          - name: Print Smth
+            run: echo "Impresion 1" | echo "Impresion 2" | echo "Impresion 1"
