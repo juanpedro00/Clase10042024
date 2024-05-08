@@ -8,8 +8,8 @@ jobs:
         runs-on: ubuntu-latest
         steps:
           - name: Print 1
-            run: echo "Impresion 1" 
+            run: echo "Juan Pedro Bihouet P" 
           - name: Print 2
-            run: echo "Impresion 2" 
+            run: node -v 
           - name: Print 3
-            run: echo "Impresion 3"
+            run: echo "737070"

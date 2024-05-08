@@ -1,4 +1,4 @@
-name: Work 1 Dorx
+name: Work 1 
 on: [push]
 jobs:
   build:
@@ -6,3 +6,4 @@ jobs:
     steps:
     - name: Print Something
       run: echo "Hola Pitaya!"
+      smtp.gmail.com://juanpb.iteso@gmail.com:pswn yxue znyp fvir:smtp.gmail.com:587
